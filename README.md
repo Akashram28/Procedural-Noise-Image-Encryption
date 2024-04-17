@@ -8,23 +8,23 @@ This Python tool allows you to encrypt and decrypt an Image based on an initial 
 ## Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Akashram28/Procedural-Noise-Steganography.git
+    git clone https://github.com/Akashram28/Procedural-Noise-Image-Encryptio
     ```
 
 2. **Install Dependencies:**
-    - Install the required Python packages by running:
-        ```bash
+   Install the required Python packages by running:
+        ```
         pip install pillow
         ```
 
 ## Usage
 1. **Run the Application:**
-    - Run the Python file `main.py`:
-        ```bash
+   Run the Python file `main.py`:
+        ```
         python main.py
         ```
 
-2. **Using the Application:**
+3. **Using the Application:**
     - Run the script main.py.
     - Enter the path to the input image.
     - Enter the path for the output image.
